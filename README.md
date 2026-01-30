@@ -14,7 +14,7 @@
 -Used to enrich risk assessment and contextual analysis
 -Both datasets are ingested as raw inputs and processed through the Bronze–Silver–Gold pipeline
 
-## 🏗️ What Was Done (Step-by-Step)
+## 🏗️ What Was Done
 -Ingested raw COVID case and vaccination datasets into the Bronze layer
 -Cleaned, standardized, and validated data in the Silver layer
 -Engineered AI-ready features such as growth rates, ratios, and mortality indicators in the Gold layer
